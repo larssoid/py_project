@@ -2,6 +2,6 @@ def sum_numbers():
     a = 1 + 5
     return a
 
-
-print(sum_numbers())
-
+def dif_numbers():
+    a = 6 - 5
+    return a
